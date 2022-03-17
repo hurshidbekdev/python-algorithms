@@ -1,0 +1,10 @@
+n=13
+mon=1
+tue=2
+wed=3
+thou=4
+fri=5
+sat=6
+sun=0
+kun=n%7-1
+print(kun)
